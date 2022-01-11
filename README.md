@@ -5,3 +5,5 @@ Valet Noir is a student project from 2009. It's a Black Jack game written in jav
 Imported from Sourceforge https://sourceforge.net/projects/valetnoir/
 
 Javadocs are served here https://dfa1234.github.io/valet-noir/
+
+Sorry for the french
